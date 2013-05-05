@@ -1,7 +1,7 @@
 # Democracia En Red
 DemocraciaEnRed is an online space for deliberation and voting on political proposals. The software aims to stimulate better arguments and come to better rullings.
 
-The project is under the branch "development". Feel free to contribute.
+### The project is under the branch "development". Feel free to contribute.
 
 ![][1]
 [1]: http://partidodelared.org/images/browser.png
